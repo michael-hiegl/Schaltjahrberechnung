@@ -1,0 +1,19 @@
+﻿  Main.c
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(38,12): error C2085: "i_Jahr": Nicht in der formalen Parameterliste enthalten
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(38,21): error C2085: "i_Monat": Nicht in der formalen Parameterliste enthalten
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(38,28): error C2085: "i_Tag": Nicht in der formalen Parameterliste enthalten
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(40,2): error C2061: Syntaxfehler: Bezeichner "printf"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(41,8): error C2143: Syntaxfehler: Es fehlt ")" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(41,8): error C2143: Syntaxfehler: Es fehlt "{" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(41,8): error C2059: Syntaxfehler: "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(41,22): error C2059: Syntaxfehler: ")"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(42,9): error C2143: Syntaxfehler: Es fehlt ")" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(42,9): error C2143: Syntaxfehler: Es fehlt "{" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(42,9): error C2059: Syntaxfehler: "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(42,32): error C2059: Syntaxfehler: ")"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(43,8): error C2143: Syntaxfehler: Es fehlt ")" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(43,8): error C2143: Syntaxfehler: Es fehlt "{" vor "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(43,8): error C2059: Syntaxfehler: "Zeichenfolge"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(43,21): error C2059: Syntaxfehler: ")"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(45,2): error C2059: Syntaxfehler: "switch"
+C:\Users\micha\source\repos\Schaltjahrberechnung\Schaltjahrberechnung\Main.c(59,2): fatal error C1506: Weiterverarbeitung nach der Auflösung von Blöcken nicht möglich
